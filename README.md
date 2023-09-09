@@ -37,6 +37,8 @@
 
 ##Sustainability form?
 
+| Rubric | Assesment| Evidence |
+| ----------- | ----------- | -- |
 | Does your website and documentation provide a clear, high-level overview of your software? | 2 | Link to README, docs folder |
 | Does your website and documentation clearly describe the type of user who should use your software? | 3 | Link to README description |
 | Do you publish case studies to show how your software has been used by yourself and others? | 0 | No | 
