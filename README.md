@@ -5,33 +5,33 @@
 
 | Rubric | Assesment| Evidence |
 | ----------- | ----------- | -- |
-| Video | 2  | Link to github + video showing no change, but README has significant delta of changes | 
-| Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot) | 3 | Link to activity graph of people |
+| Video | 2  | https://github.com/aditya4196/SimplyClip/tree/Group10DeveloperBranch#-punch-line | 
+| Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot) | 3 | https://github.com/aditya4196/SimplyClip/graphs/contributors |
 | Number of commits | 2 | [todo] | 
-| Number of commits: by different people | 3  | Link to github activity graph |
-| Issues reports: there are many | 3 | Link to github issues |
-| Issues are being closed | 3 | Link to closed issues| 
-| DOI badge: exists | 3 | Link to README|
-| Docs: doco generated, format not ugly | 1 | Link to Github docs folder |
-| Docs: what: point descriptions of each class/function (in isolation) | 2 | Link to Github docs folder | 
-| Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z | 1 | Link to github docs | 
-| Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing | 1 | Link to github docs folder |
-| Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code | 2 | Link to github docs folder |
-| Use of version control tools | 3 | Link to github commits |
-| Use of style checkers | 3 | Link to Github file|
-| Use of code formatters | 2 | Link to Github file |
-| Use of code coverage | 3 | Link to Github badge |
+| Number of commits: by different people | 3  | https://github.com/aditya4196/SimplyClip/graphs/contributors |
+| Issues reports: there are many | 3 | https://github.com/aditya4196/SimplyClip/issues |
+| Issues are being closed | 3 | https://github.com/aditya4196/SimplyClip/issues?q=is%3Aissue+is%3Aclosed| 
+| DOI badge: exists | 3 | https://github.com/aditya4196/SimplyClip/blob/Group10DeveloperBranch/README.md|
+| Docs: doco generated, format not ugly | 1 | https://github.com/aditya4196/SimplyClip/tree/Group10DeveloperBranch/Docs |
+| Docs: what: point descriptions of each class/function (in isolation) | 2 | https://github.com/aditya4196/SimplyClip/tree/Group10DeveloperBranch/Docs/Group10V3Docs | 
+| Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z | 1 | https://github.com/aditya4196/SimplyClip/tree/Group10DeveloperBranch/Docs | 
+| Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing | 1 | https://github.com/aditya4196/SimplyClip/tree/Group10DeveloperBranch/Docs |
+| Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code | 2 | https://github.com/aditya4196/SimplyClip/tree/Group10DeveloperBranch/Docs |
+| Use of version control tools | 3 | https://github.com/aditya4196/SimplyClip#version-control-tools |
+| Use of style checkers | 3 | https://github.com/aditya4196/SimplyClip#-ide-and-packages|
+| Use of code formatters | 2 | https://github.com/aditya4196/SimplyClip#-ide-and-packages |
+| Use of code coverage | 3 | https://github.com/aditya4196/SimplyClip#-testcase-coverage |
 | Other automated analysis tools | 3 | Link to Github badges|
-| Test cases exist | 3 | Link to tests folder |
+| Test cases exist | 3 | https://github.com/aditya4196/SimplyClip/tree/Group10DeveloperBranch/test |
 | Test cases are routinely executed | 2 | Link to tests:passing badge |
-| The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up | 1 | Link to contributing.md page |
-| Issues are discussed before they are closed | 1 | Link to github closed issues with no discussion comments/summaries | 
-| Chat channel: exists | 0 | Link to github repo |
-| Test cases: a large proportion of the issues related to handling failing cases | 1 | Link to github closed issues, but say what they are lacking|
-| Evidence that the whole team is using the same tools: everyone can get to all tools and files | 3 | Link to github commit activity, issue comments page |
-| Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people | 3 | Link to eslint and gitignore files |
+| The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up | 1 | https://github.com/aditya4196/SimplyClip/blob/Group10DeveloperBranch/CONTRIBUTING.md |
+| Issues are discussed before they are closed | 1 | https://github.com/aditya4196/SimplyClip/issues?q=is%3Aissue+is%3Aclosed| 
+| Chat channel: exists | 0 | https://github.com/aditya4196/SimplyClip |
+| Test cases: a large proportion of the issues related to handling failing cases | 1 | https://github.com/aditya4196/SimplyClip/issues?q=is%3Aissue+is%3Aclosed . No issues related to handling failing cases|
+| Evidence that the whole team is using the same tools: everyone can get to all tools and files | 3 | https://github.com/aditya4196/SimplyClip/graphs/contributors , https://github.com/aditya4196/SimplyClip/issues/2 |
+| Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people | 3 | https://github.com/aditya4196/SimplyClip/commits/Group10DeveloperBranch/.gitignore , https://github.com/aditya4196/SimplyClip/commits/Group10DeveloperBranch/content.js |
 | Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer | 0 | No comments |
-| Evidence that the members of the team are working across multiple places in the code base | 3 | Link to files history |
+| Evidence that the members of the team are working across multiple places in the code base | 3 | https://github.com/aditya4196/SimplyClip/commits/Group10DeveloperBranch/content.js |
 | Short release cycles | 0 | No comments |
 
 
