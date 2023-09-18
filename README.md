@@ -214,6 +214,7 @@ Project-4 : Stock Guide and Analyst
 
 | Rubric | Assesment| Evidence |
 | ----------- | ----------- | -- |
+| Total | 168  |  | 
 | Video | 3 | https://github.com/lokesh45/StockPrediction#video | 
 | Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot) | 2 | https://github.com/lokesh45/StockPrediction/graphs/contributors |
 | Number of commits | 2 | https://github.com/lokesh45/StockPrediction/commits/master | 
@@ -317,6 +318,7 @@ Project-5 : Slash
 
 | Rubric | Assesment| Evidence |
 | ----------- | ----------- | -- |
+| Total | 212  |  |
 | Video | 3 | https://www.youtube.com/watch?v=b3V1MQDvrE8 | 
 | Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot) | 2 | https://github.com/SE21-Team2/slash/graphs/contributors |
 | Number of commits | 3 | https://github.com/SE21-Team2/slash/commits/main | 
