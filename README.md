@@ -70,7 +70,7 @@ Project-2 : SmiplyClip
 | Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully) | 3 | Yes, the Group10DeveloperBranch: https://github.com/aditya4196/SimplyClip |
 | Do you back-up your repository? | 0 | No such backup is mentioned: https://github.com/aditya4196/SimplyClip/blob/Group10DeveloperBranch/README.md |
 | Do you provide publicly-available instructions for building your software from the source code? | 3 | Yes: https://github.com/aditya4196/SimplyClip/tree/Group10DeveloperBranch#gear-getting-started-add-simplyclip-to-google-chrome | 
-| Can you build, or package, your software using an automated tool? | 2|  |
+| Can you build, or package, your software using an automated tool? | 2 | https://github.com/aditya4196/SimplyClip/blob/Group10DeveloperBranch/README.md |
 | Do you provide publicly-available instructions for deploying your software? | 3 | https://github.com/aditya4196/SimplyClip/blob/Group10DeveloperBranch/README.md |
 | Does your documentation list all third-party dependencies? | 2 | Most of them are mentioned in ReadMe.md: https://github.com/aditya4196/SimplyClip/blob/Group10DeveloperBranch/README.md,  |
 | Does your documentation list the version number for all third-party dependencies? | 2 | https://github.com/aditya4196/SimplyClip/blob/Group10DeveloperBranch/README.md |
