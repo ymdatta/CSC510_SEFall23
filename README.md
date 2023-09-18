@@ -9,7 +9,7 @@ Project-2 : SmiplyClip
 | Total | 187  |  | 
 | Video | 2  | https://github.com/aditya4196/SimplyClip/tree/Group10DeveloperBranch#-punch-line | 
 | Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot) | 3 | https://github.com/aditya4196/SimplyClip/graphs/contributors |
-| Number of commits | 2 | https://github.com/umagnanasundaram2128/SimplyClip/compare/main...aditya4196:SimplyClip:Group10DeveloperBranch  | 
+| Number of commits | 2 | https://github.com/aditya4196/SimplyClip/commits/Group10DeveloperBranch  | 
 | Number of commits: by different people | 3  | https://github.com/aditya4196/SimplyClip/graphs/contributors |
 | Issues reports: there are many | 3 | https://github.com/aditya4196/SimplyClip/issues |
 | Issues are being closed | 3 | https://github.com/aditya4196/SimplyClip/issues?q=is%3Aissue+is%3Aclosed| 
