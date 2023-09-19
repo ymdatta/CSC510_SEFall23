@@ -1,6 +1,6 @@
 # CSC510_SEFall23
 
-##**Code 'i' : [SimplyClip 3.0](https://github.com/aditya4196/SimplyClip)**
+## **Code 'i' : [SimplyClip 3.0](https://github.com/aditya4196/SimplyClip)**
 
 | Rubric | Assesment| Evidence |
 | ----------- | ----------- | -- |
@@ -104,7 +104,7 @@
 | Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed? | 0 | Not applicable |
 | Do you make timely announcements of the deprecation of components, APIs, etc.? | 0 | No such information is provided: https://github.com/aditya4196/SimplyClip |
 
-##**Code 'p' : [Wolftrack 3.0](https://github.com/nehajaideep/WolfTrack3.0)**
+## **Code 'p' : [Wolftrack 3.0](https://github.com/nehajaideep/WolfTrack3.0)**
 
 | Rubric | Assesment| Evidence |
 | ----------- | ----------- | -- |
@@ -208,7 +208,7 @@
 | Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed? | 0 | Not applicable |
 | Do you make timely announcements of the deprecation of components, APIs, etc.? | 0 | No Announcements https://github.com/nehajaideep/WolfTrack3.0/blob/Group10StableBranch/README.md |
 
-##**Code 'P' : [Stock Guide and Analyst](https://github.com/lokesh45/StockPrediction)**
+## **Code 'P' : [Stock Guide and Analyst](https://github.com/lokesh45/StockPrediction)**
 
 | Rubric | Assesment| Evidence |
 | ----------- | ----------- | -- |
@@ -312,7 +312,7 @@
 | Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed? | 0 | No, such information is not present: https://github.com/lokesh45/StockPrediction |
 | Do you make timely announcements of the deprecation of components, APIs, etc.? | 0 | No, such information is not present: https://github.com/lokesh45/StockPrediction |
 
-##**Code 'a' : [Slash](https://github.com/SE21-Team2/slash)**
+## **Code 'a' : [Slash](https://github.com/SE21-Team2/slash)**
 
 | Rubric | Assesment| Evidence |
 | ----------- | ----------- | -- |
@@ -416,10 +416,11 @@
 | Does your website or documentation describe how your project is funded, and the period over which funding is guaranteed? | 0 | No such information is provided: https://github.com/SE21-Team2/slash |
 | Do you make timely announcements of the deprecation of components, APIs, etc.? | 0 | No such information is provided: https://github.com/SE21-Team2/slash |
 
-##**Code 'd' : [ScheduleBot](https://github.com/SEProjGrp5/ScheduleBot)**
+## **Code 'd' : [ScheduleBot](https://github.com/SEProjGrp5/ScheduleBot)**
 
 | Rubric | Assesment| Evidence |
 | ----------- | ----------- | -- |
+| Total | 167 | |
 | Video | 3  | https://github.com/SEProjGrp5/ScheduleBot#version-3-submission-video |
 | Workload is spread over the whole team (one team member is often Xtimes more productive than the others...but nevertheless, here is a track record that everyone is contributing a lot) | 3 | https://github.com/SEProjGrp5/ScheduleBot/graphs/contributors|
 | Number of commits | 3 | https://github.com/qchen59/ScheduleBot/compare/main...SEProjGrp5:ScheduleBot:main | 
