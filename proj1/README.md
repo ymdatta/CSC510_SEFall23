@@ -4,6 +4,8 @@
 
 [CSC510_SE23_Project1_SimplyClip](https://www.youtube.com/watch?app=desktop&v=zMqw4Z5NLFg)
 
+## Project Metrics
+
 ## **Code 'i' : [SimplyClip 3.0](https://github.com/aditya4196/SimplyClip)**
 
 | Rubric | Assesment| Evidence |
